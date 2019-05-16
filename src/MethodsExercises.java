@@ -1,5 +1,7 @@
 import java.util.Scanner;
+
 public class MethodsExercises {
+
     public static void main(String[] args) {
         System.out.println(Addition(1,10));
         System.out.println(Subtraction(50, 25));
