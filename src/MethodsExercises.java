@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class MethodsExercises {
 
     public static void main(String[] args) {
-        System.out.println(Addition(1,10));
+        System.out.println("addition (1/10) = " + Addition(1,10));
         System.out.println(Subtraction(50, 25));
         System.out.println(Division(10, 2));
         System.out.println(Multiplication(25, 8));
