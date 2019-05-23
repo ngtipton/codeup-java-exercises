@@ -14,18 +14,11 @@ public class Student {
         this.grades = new ArrayList<>();
     }
 
-    public String getName() {
-        return name;
-    }
+
 
     public void addGrade(int grade){
         this.grades.add(grade);
     }
-
-    public List<Integer> getGrades() {
-        return grades;
-    }
-
 
 
     public double getGradeAverage() {
