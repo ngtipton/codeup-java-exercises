@@ -48,7 +48,7 @@ public class GradesApplication {
         Scanner scanner = new Scanner(System.in);
         String userResponse;
         do {
-            boolean studentFound = true;
+            boolean studentFound = false;
             System.out.println("What student would you like more info on?");
             for (String key : students.keySet()) {
                 System.out.println(key);
