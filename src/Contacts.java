@@ -58,7 +58,7 @@ public class Contacts {
 
     public static void addContacts() {
 
-        System.out.println("Enter name and number (format: XXX-XXX-XXXX) of new contact: ");
+        System.out.println("Enter first name, last name, and number (format: XXX-XXX-XXXX) of new contact: ");
         sc.nextLine();
 
         contacts.add(sc.nextLine());

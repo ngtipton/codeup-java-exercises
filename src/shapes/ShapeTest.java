@@ -1,17 +1,15 @@
-package shapes;
-
-public class ShapeTest {
-
-    public static void main(String[] args) {
-
-//        Rectangle box1 = new Rectangle();
-//        System.out.println("getArea = " + box1.getArea());
-//        System.out.println("getPerimeter = " + box1.getPerimeter());
-
-//        Rectangle box2 = new Square();
-//        System.out.println("getArea = " + box2.getArea());
-//        System.out.println("getPerimeter = " + box2.getPerimeter());
-
-    }
-
-}
+//import java.util.ArrayList;
+//import java.util.List;
+//
+//
+//public class ShapeTest {
+//
+//    public static void main(String[] args) {
+//        List<Integer> numbers = new ArrayList<>();
+//        numbers.add(13);
+//        numbers.add(new Integer(8)); // Line 7
+//        numbers.add(3.6); // Line 8
+//        for (Integer number: numbers) System.out.println(number); // Line 9
+//    }
+//    }
+//
